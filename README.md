@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋 I'm a Data Analyst
+I am a working professional in analytics and data science feilds.
+
+Hi 👋 I'm a Data & Engineering Consultant
+I help startups utilize big data to build AI-powered products and mentor professionals to improve their skills in the data field by 1% every day.
 
 <!--
 **dipakwanere/dipakwanere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
