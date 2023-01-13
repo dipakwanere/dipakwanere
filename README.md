@@ -1,4 +1,4 @@
-### Hi there 👋 I'm a Data Analyst
+# Hi there 👋 I'm a Data Analyst
 I am a working professional in analytics and data science feilds.
 
 Hi 👋 I'm a Data & Engineering Consultant
