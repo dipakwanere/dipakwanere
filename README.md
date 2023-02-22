@@ -11,7 +11,7 @@ Highly motivated professional with 2.5+ years of experience in analysing large d
   * Libraries & packages - Pandas, NumPy, scikit-learn, SciPy, matplotlib, seaborn, NLTK, Hugging Face's transformers, TensorFlow, Keras, PySpark, and PyTorch.
   * Web Frameworks – Flask, Django
   * Advance Mathematics - statistics, calculus, algebra, probability.
-  * Data mining - Data Collection, Data manipulation, Pre-processing, Exploratory Data Analysis and Present insights/findings, Regression analysis, Statistical Analysis,   Anomaly detection.
+  * Data mining - Data Collection, Data manipulation, Pre-processing, Exploratory Data Analysis and Present insights/findings, Regression analysis, Statistical Analysis, Anomaly detection.
   * Machine Learning Algorithms – Supervised Learning, Unsupervised Learning, Semi-supervised Learning, Reinforcement Learning.
   * Deep Learning & AI - 
   * Software IDE – Visual Studio Code, PyCharm, Anaconda, Jupyter Notebook, Tableau, Power BI, Splunk Enterprise, OpenSearch, Elasticsearch, MS Office.
