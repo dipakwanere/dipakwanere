@@ -65,6 +65,18 @@ src="https://img.shields.io/github/followers/dipakwanere?logo=github&style=for-t
 <div width="100%" align="center"><a href="https://github.com/dipakwanere/Tableau-Data-Viz" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=dipakwanere&repo=Tableau-Data-Viz&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/dipakwanere/Linear_Regression-and-DataViz-with-Algerian_forest_fire_Dataset" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=dipakwanere&repo=Linear_Regression-and-DataViz-with-Algerian_forest_fire_Dataset&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
 
 
+
+
+
+
+
+
+
+
+
+
+
+
 # Sklliset 
   * Strong understanding of fundamentals of Data Science and Machine Learning concepts.
   * Programming languages – Python, R, SQL, Julia. 
