@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data Analyst
 ------------
 
-Passionate Data Analyst with 3 years of experience in the IT industry. Proficient in analyzing complex data sets to derive valuable insights, identifying trends and patterns, and developing and deploying machine learning models. Strong problem-solving and communication skills enable effective collaboration and impactful data-driven decision-making.
+Passionate Data Scientist with 4+ years of experience in the Analytics, Data science and ML. Proficient in analyzing complex data sets to derive valuable insights, identifying trends and patterns, and developing and deploying machine learning models. Strong problem-solving and communication skills enable effective collaboration and impactful data-driven decision-making.
 
 * 🌍  I'm based in Pune, Maharashtra, India
 * 🖥️  See my portfolio at ["DipakPortfolio"](http://xyz.com)
