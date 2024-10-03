@@ -65,40 +65,6 @@ src="https://img.shields.io/github/followers/dipakwanere?logo=github&style=for-t
 <div width="100%" align="center"><a href="https://github.com/dipakwanere/Tableau-Data-Viz" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=dipakwanere&repo=Tableau-Data-Viz&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/dipakwanere/Linear_Regression-and-DataViz-with-Algerian_forest_fire_Dataset" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=dipakwanere&repo=Linear_Regression-and-DataViz-with-Algerian_forest_fire_Dataset&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# Hi there 👋 I am Dipak,
-
-I'm a working professional in data analytics, Passionate about AI/Machine Learning with industry experience in data analytics, predictive modelling, building and deploying machine Learning Algorithms models and Computer Vision technology and natural language processing(NLP).
-
-# My Introduction:
-Highly motivated professional with 3 years of experience in collecting, clean, analysing, and visualising large datasets, delivering valuable insights from complex data, and delivering actionable results to drive business growth. Skilled in Python programming, databases such as MySQL, Postgres, MongoDB, OpenSearch, and Elasticsearch, ETL pipelines, and data visualisation with Tableau and Power BI. Proficient in utilising a wide range of data science and machine learning packages, libraries, and frameworks, including Pandas, NumPy, sci-kit-learn, mat-plot lib, seaborn, NLTK, Hugging Face's transformers, TensorFlow, Keras, sci-kit-learn, and PyTorch, Flask, Django for building, deploying, and validating models. Strong understanding of exploratory data analysis, feature selection and engineering, statistical techniques, A/B testing, hypothesis testing machine learning algorithms, and NLP with big data technologies such as Hadoop, Spark, and Hive. Proven ability to analyse large datasets, build predictive models, and extract valuable insights. ability to work well in a team and drive projects from concept to deployment in cloud infrastructure such as AWS, Azure, or GCP. Seeking new opportunities to apply my skills and continue learning in a dynamic and fast-paced environment.
-
 # Sklliset 
   * Strong understanding of fundamentals of Data Science and Machine Learning concepts.
   * Programming languages – Python, R, SQL, Julia. 
