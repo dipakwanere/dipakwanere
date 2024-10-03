@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data Analyst
 ------------
 
-Passionate Data Scientist with 4+ years of experience in the Analytics, Data science and ML. Proficient in analyzing complex data sets to derive valuable insights, identifying trends and patterns, and developing and deploying machine learning models. Strong problem-solving and communication skills enable effective collaboration and impactful data-driven decision-making.
+Passionate Data Scientist with 4+ years of experience in Analytics, Data science and ML. Proficient in analyzing complex data sets to derive valuable insights, identifying trends and patterns, and developing and deploying machine learning models. Strong problem-solving and communication skills enable effective collaboration and impactful data-driven decision-making.
 
 * 🌍  I'm based in Pune, Maharashtra, India
 * 🖥️  See my portfolio at ["DipakPortfolio"](http://xyz.com)
@@ -77,28 +77,6 @@ src="https://img.shields.io/github/followers/dipakwanere?logo=github&style=for-t
 
 
 
-# Sklliset 
-  * Strong understanding of fundamentals of Data Science and Machine Learning concepts.
-  * Programming languages – Python, R, SQL, Julia. 
-  * Libraries & packages - Pandas, NumPy, sci-kit-learn, SciPy, mat-plot lib, seaborn, NLTK, Hugging Face's transformers, TensorFlow, Keras, PySpark, and PyTorch.
-  * Web Frameworks – Flask, Django
-  * Advanced Mathematics - statistics, calculus, algebra, probability.
-  * Data mining - Data Collection, Data manipulation, Pre-processing, Exploratory Data Analysis and Present insights/findings, Regression analysis, Statistical Analysis, Anomaly detection.
-  * Machine Learning Algorithms – Supervised Learning, Unsupervised Learning, Semi-supervised Learning, Reinforcement Learning.
-  * Deep Learning & AI - 
-  * Software IDE – Visual Studio Code, PyCharm, Anaconda, Jupyter Notebook, Tableau, Power BI, Splunk Enterprise, OpenSearch, Elasticsearch, MS Office.
-  * Version Control System – Git & GitHub.
-  * Database SQL/NoSQL - Manipulation databases, MySQL, Postgres, Microsoft SQL Server, MongoDB 
-  * Data Visualization – Tableau, Power BI,
-  * Cloud & Big Data Technologies – AWS s3, Azure, or GCP, Heroku, Streamlit, Netlify, Hadoop, Spark, and Hive.
-  * End to End Model Deployment and Automating Cloud Pipelines. 
-  * Proven understanding of Software Engineering and End-to-End project development. 
 
-#  Soft Skill: 
-  * Communication Skills—Collaboration, storytelling, public speaking,
-  * Understanding business strategies
-  * Analytical mindset
-  * Decision making
-  * Attention to detail
-  * Out-of-the-box thinking
-  * Continuous learner
+
+
