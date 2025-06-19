@@ -22,11 +22,20 @@ I am a Data Scientist with over 4.5 years of experience in Analytics, Data Scien
 - **Cloud Platforms**: AWS, Heroku
 - **Other Tools**: Git, Docker, Salesforce, Linux
 
-## Socials
+### Socials
 
-[![GitHub](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg)](https://www.github.com/dipakwanere) 
-[![LinkedIn](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg)](https://www.linkedin.com/in/dipakwanere) 
-[![Medium](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg)](https://medium.com/@dipakwanere2000)
+<p align="left"> 
+  <a href="https://www.github.com/dipakwanere" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="24" height="24" />
+  </a> 
+  <a href="https://www.linkedin.com/in/dipakwanere" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="24" height="24" />
+  </a> 
+  <a href="https://medium.com/@dipakwanere2000" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="24" height="24" />
+  </a>
+</p>
+
 
 ## GitHub Stats
 
