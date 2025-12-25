@@ -36,7 +36,13 @@ I am a Data Scientist with 5+ years of experience delivering end-to-end data sol
 
 ---
 
-## GitHub Stats
+## GitHub Stats:
+
+## 🛠️ Recently Active Repositories
+
+
+![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=dipakwanere)
+
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dipakwanere&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true)
 
