@@ -2,7 +2,7 @@
 
 ## Data Scientist | ML & MLOps Engineer | GenAI Enthusiast
 
-I am a Data Scientist with 5+ years of experience delivering end-to-end data solutions — from analytics, data science and predictive modeling to scalable ML pipelines and now GenAI and AI automation. I specialise in building production-ready ML workflows and integrating LLMs into real-world applications.
+I am a Data Scientist with 5+ years of experience delivering end-to-end data solutions — from analytics, data science and predictive modelling to scalable ML pipelines and now GenAI and AI automation. I specialise in building production-ready ML workflows and integrating LLMs into real-world applications.
 
 - 🌍 Pune, Maharashtra, India  
 - 🖥️ [Portfolio](https://dipakwanere.github.io)  
@@ -25,6 +25,14 @@ I am a Data Scientist with 5+ years of experience delivering end-to-end data sol
 - **Other Tools:** Git, Linux, Salesforce, Kibana
 
 ---
+## 🧰 Tech Stack
+
+![Python](https://img.shields.io/badge/Python-Expert-blue)
+![ML](https://img.shields.io/badge/Machine%20Learning-Production-green)
+![Docker](https://img.shields.io/badge/Docker-Containerized-blue)
+![AWS](https://img.shields.io/badge/AWS-MLOps-orange)
+![Azure](https://img.shields.io/badge/Azure-Databricks-blue)
+
 
 ### Connect with Me
 
@@ -36,12 +44,18 @@ I am a Data Scientist with 5+ years of experience delivering end-to-end data sol
 
 ---
 
-## GitHub Stats:
+## GitHub Stats:      ![Visitors](https://komarev.com/ghpvc/?username=dipakwanere&style=flat-square)
 
 ## 🛠️ Recently Active Repositories
 
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dipakwanere&theme=github-compact&hide_border=true&area=true)
 
-![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=dipakwanere)
+## 🐍 Contribution Flow
+
+![Snake animation](https://raw.githubusercontent.com/dipakwanere/dipakwanere/output/github-contribution-grid-snake.svg)
+
+
+
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dipakwanere&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true)
